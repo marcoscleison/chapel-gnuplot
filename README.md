@@ -1,2 +1,2 @@
 # chapel-gnuplot
-Gnuplot for Chaple language
+Gnuplot for Chapel language
